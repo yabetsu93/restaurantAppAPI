@@ -12,3 +12,5 @@ rebuild () {
     dotnet clean
     dotnet build
 }
+
+$*
